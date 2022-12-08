@@ -1,0 +1,1 @@
+# Solutions of some Of SQL querries
